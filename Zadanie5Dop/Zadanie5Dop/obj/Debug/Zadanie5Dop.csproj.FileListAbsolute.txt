@@ -1,0 +1,2 @@
+D:\Practical2\Zadanie5Dop\Zadanie5Dop\obj\Debug\App.g.cs
+D:\Practical2\Zadanie5Dop\Zadanie5Dop\obj\Debug\Zadanie5Dop_MarkupCompile.cache
